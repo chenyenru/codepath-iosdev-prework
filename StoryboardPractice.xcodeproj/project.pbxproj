@@ -24,6 +24,8 @@
 		4F242C8C2A5D2FF100233A2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F242C8F2A5D2FF100233A2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F242C912A5D2FF100233A2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F242C972A5D32F100233A2D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4F242C992A5D35ED00233A2D /* db-schema.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "db-schema.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,8 @@
 		4F242C772A5D2FF000233A2D = {
 			isa = PBXGroup;
 			children = (
+				4F242C992A5D35ED00233A2D /* db-schema.png */,
+				4F242C972A5D32F100233A2D /* README.md */,
 				4F242C822A5D2FF000233A2D /* StoryboardPractice */,
 				4F242C812A5D2FF000233A2D /* Products */,
 			);
