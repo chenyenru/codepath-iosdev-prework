@@ -39,6 +39,10 @@ I would like to make an expiration date manager that keeps a library of all the 
     4. location (optional)
     5. descriptions (optional)
 
-Database Schema
+#### Database Schema
 
 ![](/db-schema.png)
+
+#### UI/UX Design
+
+![](/figma-design.png)

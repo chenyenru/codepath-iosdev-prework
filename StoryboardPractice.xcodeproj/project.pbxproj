@@ -26,6 +26,7 @@
 		4F242C912A5D2FF100233A2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F242C972A5D32F100233A2D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4F242C992A5D35ED00233A2D /* db-schema.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "db-schema.png"; sourceTree = "<group>"; };
+		4F242C9A2A5D3A0700233A2D /* figma_ui.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = figma_ui.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		4F242C772A5D2FF000233A2D = {
 			isa = PBXGroup;
 			children = (
+				4F242C9A2A5D3A0700233A2D /* figma_ui.png */,
 				4F242C992A5D35ED00233A2D /* db-schema.png */,
 				4F242C972A5D32F100233A2D /* README.md */,
 				4F242C822A5D2FF000233A2D /* StoryboardPractice */,
