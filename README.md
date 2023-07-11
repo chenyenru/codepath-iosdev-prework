@@ -45,4 +45,4 @@ I would like to make an expiration date manager that keeps a library of all the 
 
 #### UI/UX Design
 
-![UI/UX Design](/figma-ui.png)
+![UI/UX Design](/figma_ui.png)
